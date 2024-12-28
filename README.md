@@ -1,2 +1,3 @@
 # I'm Anthony 👋
-## I do things
+## 📧 Email: hi@anthony.gg
+## 📱 Discord: anthony.sh
