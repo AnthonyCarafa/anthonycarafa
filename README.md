@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BlastNodes](https://blastnodes.net)
 
-- 📫 How to reach me **anthony@blastnodes.net**
+- 📫 My Discord username is **anthonyssh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
