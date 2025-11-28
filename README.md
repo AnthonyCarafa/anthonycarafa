@@ -8,6 +8,6 @@ I am a software engineer, system administrator, and AI enthusiast.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/126759922?v=4"
-     style="width:50px; height:50px; border-radius:8px;">
+     style="width:50px; height:50px; border-radius:20px;">
 
 </p>
